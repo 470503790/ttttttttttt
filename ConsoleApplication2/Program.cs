@@ -12,6 +12,7 @@ namespace ConsoleApplication2
         {
             Console.WriteLine("测试");
             Console.WriteLine("再测试");
+            Console.WriteLine("又测试");
         }
     }
 }
